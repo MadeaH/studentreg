@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|c:\\users\\desktop\\onedrive\\documents\\codes\\c#\\studentreg - copy\\studentreg\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635764F-FC60-4955-B18E-9F114167C3F1}|studentreg\\studentreg.csproj|solutionrelative:studentreg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\Form1.cs",
+              "RelativeDocumentMoniker": "studentreg\\Form1.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\Form1.cs",
+              "RelativeToolTip": "studentreg\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:30:31.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\Form1.cs",
+              "RelativeDocumentMoniker": "studentreg\\Form1.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\Form1.cs [Design]",
+              "RelativeToolTip": "studentreg\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:58:13.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs",
+              "RelativeDocumentMoniker": "studentreg\\main.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs",
+              "RelativeToolTip": "studentreg\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:17:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs",
+              "RelativeDocumentMoniker": "studentreg\\main.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\main.cs [Design]",
+              "RelativeToolTip": "studentreg\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:48:46.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "studentreg\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "studentreg\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:02:23.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "studentreg\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Desktop\\OneDrive\\Documents\\Codes\\C#\\studentreg - Copy\\studentreg\\AdminPanel.cs",
+              "RelativeToolTip": "studentreg\\AdminPanel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:09:41.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
